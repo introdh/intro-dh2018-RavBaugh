@@ -26,4 +26,4 @@ Photo:
 Video:
 [![Markiplier](https://www.youtube.com/watch?v=T6cdM1kubk4
 
-[!Markiplier](http://img.youtube.com/vi/T6cdM1kubk4/0.jpg)](http://www.youtube.com/watch?v=T6cdM1kubk4)
+[![Markiplier](http://img.youtube.com/vi/T6cdM1kubk4/0.jpg)](http://www.youtube.com/watch?v=T6cdM1kubk4)
