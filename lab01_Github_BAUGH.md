@@ -24,4 +24,6 @@ Photo:
 ![alt text](https://s4.reutersmedia.net/resources/r/?m=02&d=20180528&t=2&i=1266815362&w=1200&r=LYNXNPEE4R0KV.jpg "President of France and Milan Hero")
 
 Video:
-[![Markiplier](http://img.youtube.com/viT6cdM1kubk4/0.jpg)](https://www.youtube.com/watch?v=T6cdM1kubk4)
+[![Markiplier](https://www.youtube.com/watch?v=T6cdM1kubk4
+
+[!Markiplier](http://img.youtube.com/vi/T6cdM1kubk4/0.jpg)](http://www.youtube.com/watch?v=T6cdM1kubk4)
