@@ -23,7 +23,7 @@ Following this, I went to the university’s directory and gathered information 
 
 To begin explaining my findings and results, I will first address numerical findings from the networks. Then, I will address several network graphs that give a deeper understanding and provide more complete answers for my questions about the American Studies program. The network contained 13 professors: Laura Browder, Patricia Elizabeth Herrera, Nicole Jacqueline Maurantonio, Nicole Sackley, Melissa D. Ooten, Eric S. Yellin, Douglas Leo Winiarski, Lazaro Lima, Glyn Hughes, Bertram D. Ashe, Monika Barbara Siebert, Lauren Craig Tilton, and Edward L. Ayers. These professors taught classes that together covered 20 attributes: AMER, EDSL, ENEL, FLMB, FSHT, FSLT, FSVP, HIAL, HIEL, HIUS, ISAH, ISPD, JWSC, REEL, RHCS, SOEL, THEL, WGHP, WGKP, and WGSS. Each professor had a different title (for example there was a department chair) and interestingly some professors did not have titles indicated on their directory pages. For those, there was only affiliations with programs or departments listed. 
 
-There were three types of professors found: Associate Professor, Asistant Professor, and Professor. Like before, there were also a small number that chose to not describe their occupation. There were three genders represented in the data: she, he, they. With these components, I was able to see connections in the American Studies department by looking at degree, eigen, close, between, cluster, component, component size, gender pronouns, type of prof and title, and type of professor.
+There were three types of professors found: Associate Professor, Asistant Professor, and Professor. Like before, there were also a small number that chose to not describe their occupation. There were three genders represented in the data: she, he, they. With these components, I was able to see connections in the American Studies department by looking at degree, eigen, close, between, cluster, gender pronouns, type of prof and title, and type of professor.
 
 **Degree**
 
@@ -35,11 +35,13 @@ Weingart writes that "A node’s degree is, simply, how many edges it is connect
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/eigen.PNG)
 
-The Eigen is a measure of influence of nodes in the network and is done by a score assigning algorithm. These numbers reveal what professors are more involved and have more influence in the American Studies program. For instance, Dr. Herrera has a score of 0.58 rounded to the second digit. Where as, Monika Siebeit has a score of 0.01 rounded to the second digit. Dr. Herrera's score is closer to the eigen score 1 meaning she has more influence than Dr. Siebeit. 
+The Eigen is a measure of influence of nodes in the network and is done by a score assigning algorithm. These numbers reveal what professors are more involved and have more influence in the American Studies program. For instance, Dr. Herrera has a score of 0.58 rounded to the second decimal point. Where as, Monika Siebeit has a score of 0.01 rounded. Dr. Herrera's score is closer to the eigen score 1 meaning she has more influence than Dr. Siebeit. 
 
 **Close**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/close.PNG)
+
+Close measures the distance between, or 'how close,' nodes are to other nodes. Centrality shows how important a node is for the network (Weingart-JDH-2011). For example, the node FSLT (Literary Studies) is dark purple on the network with a close score of 0.00 rounded to the second decimal point. This means that Literary Studies is not close to most other subjects or individuals on the network. This shows that American Studies has more central themes that make up the program. 
 
 **Between**
 
@@ -49,13 +51,6 @@ The Eigen is a measure of influence of nodes in the network and is done by a sco
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/cluster.PNG)
 
-**Component**
-
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/component.PNG)
-
-**Component Size**
-
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/component%20size.PNG)
 
 **Gender Pronouns**
 
