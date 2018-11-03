@@ -29,6 +29,8 @@ There were three types of professors found: Associate Professor, Asistant Profes
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
 
+Weingart writes that "A node’s degree is, simply, how many edges it is connected to. Generally, this also correlates to how many neighbors a node has, where a node’s neighborhood is those other nodes connected directly to it by an edge" (Weingart-JDH-2011). In relevance to this network, the degree will show which professors have taught the most varying subjects in American Studies and display which attributes are most connected or related. Unsurprisingly, the node with the highest degree is AMER (American Studies) indicated in yellow. This makes sense given that almost all courses in the American Studies program are given the AMER attribute. However, the revealing information comes from the green and lighter blue nodes near the center of the network. The three green nodes are: Nicole Sackley (degree 12), Laura Browder (degree 13), and Patricia Herrera (13).  The light blue node is: THEL that stands for 'Theatre elective' (degree 9). These degrees reveal what professors are more involved and have more influence in the American Studies program. For instance, Dr. Herrera has the second heighest degree after AMER. She is in the Theatre department and this leads to her specialty in theatre being tagged in many classed through attribution. This is seen by the blue node that is THEL elective.  
+
 **Eigen**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/eigen.PNG)
