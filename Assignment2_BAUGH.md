@@ -32,7 +32,7 @@ These initially showed interactions and what that does but further looking at th
 
 **Degree**
 
-(image)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
 
 blup
 
