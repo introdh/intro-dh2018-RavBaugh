@@ -25,9 +25,6 @@ To begin explaining my findings and results, I will first address numerical find
 
 There were three types of professors found: Associate Professor, Asistant Professor, and Professor. Like before, there were also a small number that chose to not describe their occupation. There were three genders represented in the data: she, he, they. With these components, I was able to see connections in the American Studies department by looking at degree, eigen, close, between, cluster, component, component size, gender pronouns, type of prof and title, and type of professor.
 
-4 - sentences under each picture - 
-
-
 **Degree**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
@@ -74,4 +71,4 @@ talk abut how 5 and 5 are associate or full prof. Only 1 assistant. 2 not listed
 
 # ***Limitations and Possibilities***
 
-- the networks could not capture the frequency of some of the subjects and the course of what years some subjects were taught more. It could not account for when a professor came in and if a professor taught more courses in the same time frame (a year or semester) as another professor - making it more frequent or higher ratio of classes taught. It does not show time well and cannot show the changes over time. Data not perfect as attributes can change for the university and are not always uniform year to year. 
+- the networks could not capture the frequency of some of the subjects and the course of what years some subjects were taught more. It could not account for when a professor came in and if a professor taught more courses in the same time frame (a year or semester) as another professor - making it more frequent or higher ratio of classes taught. It does not show time well and cannot show the changes over time. Data not perfect as attributes can change for the university and are not always uniform year to year. cite time issue here. cite one other type or just such limitations to talk about. write something on possibility - use to diversive program or refine it - use for other reasons 
