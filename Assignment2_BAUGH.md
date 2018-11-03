@@ -71,7 +71,7 @@ The type of Professor and Title is important to note as the networks reveal that
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor.PNG)
 
-Finally, the type of professor reveals barriers of entry for the major and possible restrictions for faculty. The network shows that there are five professors, five associate professors, 1 assistant professor, and two non-identifying professors. This shows that most faculty are of higher level professorship that are allowed to teach in the program. By doing this, it shows that American Studies may be limited in faculty who can teach or who are allowed in the program. For instance, there are no adjuct or visiting professors in the program at all; however, these types of professors can be found in other programs such as Global Studies. 
+Finally, the type of professor reveals barriers of entry for the major and possible restrictions for faculty. The network shows that there are five professors, five associate professors, one assistant professor, and two non-identifying professors. This shows that most faculty are of higher level professorship that are allowed to teach in the program. By doing this, it shows that American Studies may be limited in faculty who can teach or who are allowed in the program. For instance, there are no adjuct or visiting professors in the program at all; however, these types of professors can be found in other programs such as Global Studies. 
 
 # ***Limitations and Possibilities***
 
