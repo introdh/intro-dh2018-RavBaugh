@@ -36,38 +36,38 @@ These initially showed interactions and what that does but further looking at th
 
 **Eigen**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/eigen.PNG)
 
 **Close**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/close.PNG)
 
 **Between**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/between.PNG)
 
 **Cluster**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/cluster.PNG)
 
 **Component**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/component.PNG)
 
 **Component Size**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/component%20size.PNG)
 
 **Gender Pronouns**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/gender.PNG)
 
 **Type of Professor and Title**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor%20and%20title.PNG)
 
 **Type of Professor**
 
-![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
+![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor.PNG)
 
 
