@@ -34,5 +34,21 @@ These initially showed interactions and what that does but further looking at th
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/degree.PNG)
 
-blup
+**Eigen**
+
+**Close**
+
+**Between**
+
+**Cluster**
+
+**Component**
+
+**Component Size**
+
+**Gender Pronouns**
+
+**Type of Professor and Title**
+
+**Type of Professor**
 
