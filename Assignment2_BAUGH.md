@@ -47,10 +47,13 @@ Close measures the distance between, or 'how close,' nodes are to other nodes. C
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/between.PNG)
 
+Like close, between measures centrality; however, it measures by finding the shortest paths. For this particular network, the between measurement shows similar information to the close measurement. 
+
 **Cluster**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/cluster.PNG)
 
+The cluster network displays the communities and are greated by closely cited nodes. This network answers one of my questions about the dynamics of attribution and American Studies. Cluster 1, located on the bottom left of the network, shows a linkage between RHCS (Rhetoric and Communications) and WGSS (Women, Gender and Sexuality Studies). The algorithm has created a community with not only these subjects but also the professors that teach in these departments: Dr. Melissa Ooten, Dr. Lauren Tilton, and Dr. Nicole Maurantonio. This explains that not only is WGSS and RHCS vital to the American Studies major, but Professors from both departments teaching these subjects is common for the program. 
 
 **Gender Pronouns**
 
