@@ -22,3 +22,17 @@ Following this, I went to the university’s directory and gathered information 
 ***Findings and Results***
 
 
+The network contained 13 professors (list them) 
+21 individual attributes (list them) - note that some where more frequently listed in courses such as WGSS and THEL (maybe later in findings) 
+There were various titles for professors with some choosing to not have a title but only affiliation to a subject 
+3 types and 2 listings of non professorship were found (professor, associate, assistant, not saying) - talk abut how 5 and 5 are associate or full prof. Only 1 assistant. 2 not listed.  (no adjucts though richmond does have adjuct professors such as in the journalism department and no visiting professors though ur has some like in the german and political science department ) 
+3 genders were represented (she, he, they) - more female then male professors and only one that identified as both male and female (so outside binary). 
+These initially showed interactions and what that does but further looking at the graphs reveals the greater implications of the major. We will look at degree, eigen, close, between, cluster, component, component size, gender pronouns, type of prof and title, and type of professor. 
+
+
+**Degree**
+
+(image)
+
+blup
+
