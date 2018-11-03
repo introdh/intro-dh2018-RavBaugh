@@ -59,17 +59,19 @@ The cluster network displays the communities and are greated by closely cited no
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/gender.PNG)
 
- more female then male professors and only one that identified as both male and female (so outside binary). 
+ The additional networks are revealed telling details about the American Studies program. For example, there were three genders represented for professors; however, only one person identified outside of the binary. There are also more females than males that teach in American Studies. This speaks to the diversity of faculty allowed to teach in the program and how that influences how American Studies is learned at the university.  
 
 **Type of Professor and Title**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor%20and%20title.PNG)
 
+The type of Professor and Title is important to note as the networks reveal that a professor's department does not prevent them from teaching across fields. For example, Dr. Tilton is listed under the Rhetoric and Communications Department; however, (as seen on the network) she teaches courses for both WGSS and FSHT (Historical Studies). This aids in making American Studies an interdisciplinary program and explaining why certain professors with varied specialized knowledge teach in the program. 
+
 **Type of Professor**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor.PNG)
 
-talk abut how 5 and 5 are associate or full prof. Only 1 assistant. 2 not listed.  (no adjucts though richmond does have adjuct professors such as in the journalism department and no visiting professors though ur has some like in the german and political science department )
+Finally, the type of professor reveals barriers of entry for the major and possible restrictions for faculty. The network shows that there are five professors, five associate professors, 1 assistant professor, and two non-identifying professors. This shows that most faculty are of higher level professorship that are allowed to teach in the program. By doing this, it shows that American Studies may be limited in faculty who can teach or who are allowed in the program. For instance, there are no adjuct or visiting professors in the program at all; however, these types of professors can be found in other programs such as Global Studies. 
 
 # ***Limitations and Possibilities***
 
