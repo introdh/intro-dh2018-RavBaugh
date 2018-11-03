@@ -21,13 +21,9 @@ Following this, I went to the university’s directory and gathered information 
 
 # ***Findings and Results***
 
+To begin explaining my findings and results, I will first address numerical findings from the networks. Then, I will address several network graphs that give a deeper understanding and provide more complete answers for my questions about the American Studies program. The network contained 13 professors: Laura Browder, Patricia Elizabeth Herrera, Nicole Jacqueline Maurantonio, Nicole Sackley, Melissa D. Ooten, Eric S. Yellin, Douglas Leo Winiarski, Lazaro Lima, Glyn Hughes, Bertram D. Ashe, Monika Barbara Siebert, Lauren Craig Tilton, and Edward L. Ayers. These professors taught classes that together covered 20 attributes: AMER, EDSL, ENEL, FLMB, FSHT, FSLT, FSVP, HIAL, HIEL, HIUS, ISAH, ISPD, JWSC, REEL, RHCS, SOEL, THEL, WGHP, WGKP, and WGSS. Each professor had a different title (for example there was a department chair) and interestingly some professors did not have titles indicated on their directory pages. For those, there was only affiliations with programs or departments listed. 
 
-The network contained 13 professors (list them) 
-21 individual attributes (list them) - note that some where more frequently listed in courses such as WGSS and THEL (maybe later in findings) 
-There were various titles for professors with some choosing to not have a title but only affiliation to a subject 
-3 types and 2 listings of non professorship were found (professor, associate, assistant, not saying) - talk abut how 5 and 5 are associate or full prof. Only 1 assistant. 2 not listed.  (no adjucts though richmond does have adjuct professors such as in the journalism department and no visiting professors though ur has some like in the german and political science department ) 
-3 genders were represented (she, he, they) - more female then male professors and only one that identified as both male and female (so outside binary). 
-These initially showed interactions and what that does but further looking at the graphs reveals the greater implications of the major. We will look at degree, eigen, close, between, cluster, component, component size, gender pronouns, type of prof and title, and type of professor. (write this out)
+There were three types of professors found: Associate Professor, Asistant Professor, and Professor. Like before, there were also a small number that chose to not describe their occupation. There were three genders represented in the data: she, he, they. With these components, I was able to see connections in the American Studies department by looking at degree, eigen, close, between, cluster, component, component size, gender pronouns, type of prof and title, and type of professor.
 
 4 - sentences under each picture - 
 
@@ -64,6 +60,8 @@ These initially showed interactions and what that does but further looking at th
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/gender.PNG)
 
+ more female then male professors and only one that identified as both male and female (so outside binary). 
+
 **Type of Professor and Title**
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor%20and%20title.PNG)
@@ -72,4 +70,8 @@ These initially showed interactions and what that does but further looking at th
 
 ![alt text](https://github.com/introdh/intro-dh2018-RavBaugh/blob/master/images/type%20of%20professor.PNG)
 
+talk abut how 5 and 5 are associate or full prof. Only 1 assistant. 2 not listed.  (no adjucts though richmond does have adjuct professors such as in the journalism department and no visiting professors though ur has some like in the german and political science department )
+
 # ***Limitations and Possibilities***
+
+- the networks could not capture the frequency of some of the subjects and the course of what years some subjects were taught more. It could not account for when a professor came in and if a professor taught more courses in the same time frame (a year or semester) as another professor - making it more frequent or higher ratio of classes taught. It does not show time well and cannot show the changes over time. Data not perfect as attributes can change for the university and are not always uniform year to year. 
